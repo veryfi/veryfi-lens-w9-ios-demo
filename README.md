@@ -32,6 +32,8 @@ You can watch our video:
 ## Veryfi Lens W-9 iOS Example <a name="example"></a>
 This is an example of how to use Veryfi Lens W-9 in your app, you can find the developer documentation [here](https://app.veryfi.com/lens/docs/ios/).
 
+![W9](https://github.com/veryfi/veryfi-lens-w9-ios-demo/assets/2013102/9ffdc830-81ed-498c-b990-252e513e3d0f)
+
 ## How to add Veryfi Lens W-9 to your project <a name="cocoapods"></a>
 
 Install from our private [Cocoapods](https://hub.veryfi.com/api/settings/keys).
