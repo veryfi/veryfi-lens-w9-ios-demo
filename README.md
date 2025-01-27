@@ -40,7 +40,7 @@ Install from our private [Cocoapods](https://hub.veryfi.com/api/settings/keys).
 
 Add in your project Podfile file the Veryfi Lens W-9 iOS SDK dependency:
 ```ruby
-pod 'VeryfiLens-W9', '2.1.62.13'
+pod 'VeryfiLens-W9', '2.2.2.3'
 ```
 
 ## How to run this project <a name="configuration"></a>
