@@ -8,5 +8,5 @@ target 'LensW9Demo' do
   use_frameworks!
 
   # Pods for LensW9Demo
-  pod 'VeryfiLens-W9', '2.2.9.3'
+  pod 'VeryfiLens-W9', '2.2.12.3'
 end
